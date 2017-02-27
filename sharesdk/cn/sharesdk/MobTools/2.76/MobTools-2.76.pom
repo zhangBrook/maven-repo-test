@@ -4,16 +4,8 @@
 	
   <modelVersion>4.0.0</modelVersion>
   <groupId>cn.sharesdk</groupId>
-  <artifactId>Wechat</artifactId>
+  <artifactId>MobTools</artifactId>
   <version>2.76</version>
-  
-   <dependencies>  
-    <dependency>  
-      <groupId>cn.sharesdk</groupId>
-	  <artifactId>Wechat-Core</artifactId>
-      <version>2.76</version>
-    </dependency>      
-  </dependencies>  
   
   <description>POM was created from install:install-file</description>
 </project>
