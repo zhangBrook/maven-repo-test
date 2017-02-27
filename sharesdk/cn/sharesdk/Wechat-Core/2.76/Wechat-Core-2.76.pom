@@ -7,6 +7,8 @@
   <artifactId>Wechat-Core</artifactId>
   <version>2.76</version>
   
+   <url>https://raw.githubusercontent.com/zhangBrook/maven-repo-test/master/sharesdk</url>  
+   
    <dependencies>  
     <dependency>  
       <groupId>cn.sharesdk</groupId>
